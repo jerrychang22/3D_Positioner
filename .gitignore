@@ -1,3 +1,6 @@
+build/
+webapp/node_modules/
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
